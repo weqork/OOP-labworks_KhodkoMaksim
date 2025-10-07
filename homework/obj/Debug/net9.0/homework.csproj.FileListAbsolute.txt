@@ -12,3 +12,4 @@ C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\refint\homewo
 C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.pdb
 C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.genruntimeconfig.cache
 C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\ref\homework.dll
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.sourcelink.json
