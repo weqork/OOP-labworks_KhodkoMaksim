@@ -1,0 +1,14 @@
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\bin\Debug\net9.0\homework.exe
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\bin\Debug\net9.0\homework.deps.json
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\bin\Debug\net9.0\homework.runtimeconfig.json
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\bin\Debug\net9.0\homework.dll
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\bin\Debug\net9.0\homework.pdb
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.AssemblyInfoInputs.cache
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.AssemblyInfo.cs
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.dll
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\refint\homework.dll
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.pdb
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\homework.genruntimeconfig.cache
+C:\Users\weqor\RiderProjects\ConsoleApp1\homework\obj\Debug\net9.0\ref\homework.dll
